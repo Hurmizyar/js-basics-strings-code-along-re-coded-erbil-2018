@@ -2,4 +2,4 @@
 let currentUser ='ahmed'
 let welcomeMessage='Welcome to Flatbook, '
 welcomeMessage= welcomeMessage+currentUser
-welcomeMessage(-1)=d
+welcomeMessage
